@@ -20,7 +20,7 @@ d = d[d.URL != 'nan']
 d = d.reset_index()
 
 # loop through and download files
-for i in tqdm(range(140, d.shape[0])):
+for i in tqdm(range(0, d.shape[0])):
 
     ilang = str(d.loc[i, 'Language'])
     icity = str(d.loc[i, 'Station'])
