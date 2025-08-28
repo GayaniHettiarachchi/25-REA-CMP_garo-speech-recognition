@@ -1,0 +1,14 @@
+[project]
+name = "25-rea-cmp-garo-speech-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "ffmpeg>=1.4",
+    "pandas>=2.3.2",
+    "pydub>=0.25.1",
+    "requests>=2.32.5",
+    "tqdm>=4.67.1",
+]
