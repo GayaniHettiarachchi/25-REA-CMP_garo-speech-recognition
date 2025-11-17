@@ -6,6 +6,7 @@ Initial work on a speech recognition system for Garo
 - Debika Sangma
 - Matsram Sangma
 - Triksimeda Sangma
+- Scarlett Pechacek
 - ...
 
 ## Data structure
