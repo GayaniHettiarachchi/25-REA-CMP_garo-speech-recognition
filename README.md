@@ -9,7 +9,7 @@ Initial work on a speech recognition system for Garo
 - Scarlett Pechacek
 - Rosie Fossberg
 - Shanya Wijeyawardana
-- ...
+- Yaqi Zhang
 
 ## Data structure
 
