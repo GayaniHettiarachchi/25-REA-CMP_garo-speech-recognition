@@ -10,6 +10,7 @@ Initial work on a speech recognition system for Garo
 - Rosie Fossberg
 - Shanya Wijeyawardana
 - Yaqi Zhang
+- [Llinos Evans](https://github.com/ShiraTheMogul)
 
 ## Data structure
 
