@@ -12,6 +12,7 @@ Initial work on a speech recognition system for Garo
 - Louis Garrett
 - Yaqi Zhang
 - [Llinos Evans](https://github.com/ShiraTheMogul)
+- Miguel Tomás Martínez
 
 ## Data structure
 
