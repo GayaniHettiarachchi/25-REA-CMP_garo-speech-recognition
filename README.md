@@ -13,7 +13,7 @@ Initial work on a speech recognition system for Garo
 - Yaqi Zhang
 - [Llinos Evans](https://github.com/ShiraTheMogul)
 - Miguel Tomás Martínez
-
+- GayaniHettiarachchi
 ## Data structure
 
 ### Data (dat/)
